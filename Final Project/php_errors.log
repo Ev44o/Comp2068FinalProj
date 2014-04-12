@@ -1,0 +1,1905 @@
+[25-Mar-2014 15:37:25 UTC] PHP Notice:  Undefined index: username in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 11
+[25-Mar-2014 15:37:25 UTC] PHP Stack trace:
+[25-Mar-2014 15:37:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 15:37:25 UTC] PHP Notice:  Undefined index: password in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 12
+[25-Mar-2014 15:37:25 UTC] PHP Stack trace:
+[25-Mar-2014 15:37:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 15:37:25 UTC] PHP Notice:  Undefined variable: myusername in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 19
+[25-Mar-2014 15:37:25 UTC] PHP Stack trace:
+[25-Mar-2014 15:37:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 15:37:25 UTC] PHP Notice:  Undefined variable: mypassword in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 19
+[25-Mar-2014 15:37:25 UTC] PHP Stack trace:
+[25-Mar-2014 15:37:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 15:37:40 UTC] PHP Notice:  Undefined variable: myusername in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 19
+[25-Mar-2014 15:37:40 UTC] PHP Stack trace:
+[25-Mar-2014 15:37:40 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 15:37:40 UTC] PHP Notice:  Undefined variable: mypassword in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 19
+[25-Mar-2014 15:37:40 UTC] PHP Stack trace:
+[25-Mar-2014 15:37:40 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 15:38:24 UTC] PHP Fatal error:  Call to undefined function session_register() in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 29
+[25-Mar-2014 15:38:24 UTC] PHP Stack trace:
+[25-Mar-2014 15:38:24 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 15:45:10 UTC] PHP Fatal error:  Call to undefined function session_register() in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 29
+[25-Mar-2014 15:45:10 UTC] PHP Stack trace:
+[25-Mar-2014 15:45:10 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 15:58:38 UTC] PHP Notice:  Undefined index: username in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 11
+[25-Mar-2014 15:58:38 UTC] PHP Stack trace:
+[25-Mar-2014 15:58:38 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 15:58:38 UTC] PHP Notice:  Undefined index: password in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 12
+[25-Mar-2014 15:58:38 UTC] PHP Stack trace:
+[25-Mar-2014 15:58:38 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 15:59:01 UTC] PHP Notice:  Undefined index: username in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 11
+[25-Mar-2014 15:59:01 UTC] PHP Stack trace:
+[25-Mar-2014 15:59:01 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 15:59:01 UTC] PHP Notice:  Undefined index: password in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 12
+[25-Mar-2014 15:59:01 UTC] PHP Stack trace:
+[25-Mar-2014 15:59:01 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 16:00:29 UTC] PHP Notice:  Undefined index: username in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 11
+[25-Mar-2014 16:00:29 UTC] PHP Stack trace:
+[25-Mar-2014 16:00:29 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 16:00:29 UTC] PHP Notice:  Undefined index: password in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 12
+[25-Mar-2014 16:00:29 UTC] PHP Stack trace:
+[25-Mar-2014 16:00:29 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 17:04:19 UTC] PHP Notice:  Undefined index: username in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 11
+[25-Mar-2014 17:04:19 UTC] PHP Stack trace:
+[25-Mar-2014 17:04:19 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 17:04:19 UTC] PHP Notice:  Undefined index: password in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 12
+[25-Mar-2014 17:04:19 UTC] PHP Stack trace:
+[25-Mar-2014 17:04:19 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 17:05:49 UTC] PHP Notice:  Undefined index: username in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 13
+[25-Mar-2014 17:05:49 UTC] PHP Stack trace:
+[25-Mar-2014 17:05:49 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 17:05:49 UTC] PHP Notice:  Undefined index: password in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 14
+[25-Mar-2014 17:05:49 UTC] PHP Stack trace:
+[25-Mar-2014 17:05:49 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 17:20:00 UTC] PHP Notice:  Undefined index: Name in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 25
+[25-Mar-2014 17:20:00 UTC] PHP Stack trace:
+[25-Mar-2014 17:20:00 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:20:00 UTC] PHP Notice:  Undefined index: Name in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 25
+[25-Mar-2014 17:20:00 UTC] PHP Stack trace:
+[25-Mar-2014 17:20:00 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:20:00 UTC] PHP Notice:  Undefined index: Name in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 25
+[25-Mar-2014 17:20:00 UTC] PHP Stack trace:
+[25-Mar-2014 17:20:00 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:20:00 UTC] PHP Notice:  Undefined index: Name in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 25
+[25-Mar-2014 17:20:00 UTC] PHP Stack trace:
+[25-Mar-2014 17:20:00 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:20:00 UTC] PHP Notice:  Undefined index: Name in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 25
+[25-Mar-2014 17:20:00 UTC] PHP Stack trace:
+[25-Mar-2014 17:20:00 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:20:00 UTC] PHP Notice:  Undefined index: Name in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 25
+[25-Mar-2014 17:20:00 UTC] PHP Stack trace:
+[25-Mar-2014 17:20:00 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:20:00 UTC] PHP Notice:  Undefined index: Name in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 25
+[25-Mar-2014 17:20:00 UTC] PHP Stack trace:
+[25-Mar-2014 17:20:00 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:20:00 UTC] PHP Notice:  Undefined index: Name in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 25
+[25-Mar-2014 17:20:00 UTC] PHP Stack trace:
+[25-Mar-2014 17:20:00 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:20:00 UTC] PHP Notice:  Undefined index: Name in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 25
+[25-Mar-2014 17:20:00 UTC] PHP Stack trace:
+[25-Mar-2014 17:20:00 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:20:00 UTC] PHP Notice:  Undefined index: Name in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 25
+[25-Mar-2014 17:20:00 UTC] PHP Stack trace:
+[25-Mar-2014 17:20:00 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:24:16 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 23
+[25-Mar-2014 17:24:28 UTC] PHP Notice:  Undefined variable: results in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 24
+[25-Mar-2014 17:24:28 UTC] PHP Stack trace:
+[25-Mar-2014 17:24:28 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:24:28 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 24
+[25-Mar-2014 17:24:28 UTC] PHP Stack trace:
+[25-Mar-2014 17:24:28 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:24:28 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:24
+[25-Mar-2014 17:25:10 UTC] PHP Notice:  Undefined variable: results in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 24
+[25-Mar-2014 17:25:10 UTC] PHP Stack trace:
+[25-Mar-2014 17:25:10 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:25:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 24
+[25-Mar-2014 17:25:10 UTC] PHP Stack trace:
+[25-Mar-2014 17:25:10 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:25:10 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:24
+[25-Mar-2014 17:25:41 UTC] PHP Notice:  Undefined variable: results in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 24
+[25-Mar-2014 17:25:41 UTC] PHP Stack trace:
+[25-Mar-2014 17:25:41 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:25:41 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 24
+[25-Mar-2014 17:25:41 UTC] PHP Stack trace:
+[25-Mar-2014 17:25:41 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:25:41 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:24
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:25 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:25 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:25 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:26 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:26 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:26 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:26 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:26 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:26 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:26 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:26 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:26 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:26 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:26 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:26 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:26 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:26 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:26 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:26 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:26 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:26 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:26 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:26 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:26 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:26 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:26 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:42:53 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:42:53 UTC] PHP Stack trace:
+[25-Mar-2014 17:42:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:17 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:17 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:17 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:18 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:18 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:18 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:18 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:18 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:18 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:18 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:18 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:18 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:18 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 17:43:18 UTC] PHP Notice:  Undefined index: compant in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 66
+[25-Mar-2014 17:43:18 UTC] PHP Stack trace:
+[25-Mar-2014 17:43:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 20:59:18 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\wamp\www\Sandbox\Assignment1\Portfolio\success.php on line 10
+[25-Mar-2014 20:59:18 UTC] PHP Stack trace:
+[25-Mar-2014 20:59:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\success.php:0
+[25-Mar-2014 20:59:18 UTC] PHP   2. session_destroy() C:\wamp\www\Sandbox\Assignment1\Portfolio\success.php:10
+[25-Mar-2014 21:00:36 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in C:\wamp\www\Sandbox\Assignment1\Portfolio\success.php on line 10
+[25-Mar-2014 21:00:36 UTC] PHP Stack trace:
+[25-Mar-2014 21:00:36 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\success.php:0
+[25-Mar-2014 21:00:36 UTC] PHP   2. session_destroy() C:\wamp\www\Sandbox\Assignment1\Portfolio\success.php:10
+[25-Mar-2014 21:02:06 UTC] PHP Notice:  Undefined index: username in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 11
+[25-Mar-2014 21:02:06 UTC] PHP Stack trace:
+[25-Mar-2014 21:02:06 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 21:02:06 UTC] PHP Notice:  Undefined index: password in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 12
+[25-Mar-2014 21:02:06 UTC] PHP Stack trace:
+[25-Mar-2014 21:02:06 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 21:02:21 UTC] PHP Notice:  Undefined index: username in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 11
+[25-Mar-2014 21:02:21 UTC] PHP Stack trace:
+[25-Mar-2014 21:02:21 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 21:02:21 UTC] PHP Notice:  Undefined index: password in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 12
+[25-Mar-2014 21:02:21 UTC] PHP Stack trace:
+[25-Mar-2014 21:02:21 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 21:02:24 UTC] PHP Notice:  Undefined index: username in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 11
+[25-Mar-2014 21:02:24 UTC] PHP Stack trace:
+[25-Mar-2014 21:02:24 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 21:02:24 UTC] PHP Notice:  Undefined index: password in C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php on line 12
+[25-Mar-2014 21:02:24 UTC] PHP Stack trace:
+[25-Mar-2014 21:02:24 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\login.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:04 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:04 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:04 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:05 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:05 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:05 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:05 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:05 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:05 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:05 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:05 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:05 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:05 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:05 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:05 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:05 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:05 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:05 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:05 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:05 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:05 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:05 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:05 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:05 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:05 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:05 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:05 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:05 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:05 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:05 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:05 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:05 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:05 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:05 UTC] PHP Notice:  Use of undefined constant n - assumed 'n' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:05 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:05 UTC] PHP Warning:  Division by zero in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[25-Mar-2014 21:06:05 UTC] PHP Stack trace:
+[25-Mar-2014 21:06:05 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php:0
+[25-Mar-2014 21:06:40 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ';' in C:\wamp\www\Sandbox\Assignment1\Portfolio\contact_info.php on line 73
+[11-Apr-2014 16:24:18 UTC] PHP Warning:  include(includes/db_connect): failed to open stream: No such file or directory in C:\wamp\www\Sandbox\Final Project\home.php on line 44
+[11-Apr-2014 16:24:18 UTC] PHP Stack trace:
+[11-Apr-2014 16:24:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[11-Apr-2014 16:24:18 UTC] PHP Warning:  include(): Failed opening 'includes/db_connect' for inclusion (include_path='.;C:\php\pear') in C:\wamp\www\Sandbox\Final Project\home.php on line 44
+[11-Apr-2014 16:24:18 UTC] PHP Stack trace:
+[11-Apr-2014 16:24:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[11-Apr-2014 16:24:18 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in C:\wamp\www\Sandbox\Final Project\home.php on line 46
+[11-Apr-2014 16:24:18 UTC] PHP Stack trace:
+[11-Apr-2014 16:24:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[11-Apr-2014 16:24:18 UTC] PHP   2. mysql_query() C:\wamp\www\Sandbox\Final Project\home.php:46
+[11-Apr-2014 16:24:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in C:\wamp\www\Sandbox\Final Project\home.php on line 46
+[11-Apr-2014 16:24:18 UTC] PHP Stack trace:
+[11-Apr-2014 16:24:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[11-Apr-2014 16:24:18 UTC] PHP   2. mysql_query() C:\wamp\www\Sandbox\Final Project\home.php:46
+[11-Apr-2014 16:24:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Sandbox\Final Project\home.php on line 47
+[11-Apr-2014 16:24:18 UTC] PHP Stack trace:
+[11-Apr-2014 16:24:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[11-Apr-2014 16:24:18 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\Sandbox\Final Project\home.php:47
+[11-Apr-2014 17:29:18 UTC] PHP Notice:  Undefined index: name in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 4
+[11-Apr-2014 17:29:18 UTC] PHP Stack trace:
+[11-Apr-2014 17:29:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:29:18 UTC] PHP Notice:  Undefined index: survey_type in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 5
+[11-Apr-2014 17:29:18 UTC] PHP Stack trace:
+[11-Apr-2014 17:29:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:29:18 UTC] PHP Notice:  Undefined index: end_date in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 6
+[11-Apr-2014 17:29:18 UTC] PHP Stack trace:
+[11-Apr-2014 17:29:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:29:18 UTC] PHP Notice:  Undefined index: question1 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 7
+[11-Apr-2014 17:29:18 UTC] PHP Stack trace:
+[11-Apr-2014 17:29:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:29:18 UTC] PHP Notice:  Undefined index: question2 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 8
+[11-Apr-2014 17:29:18 UTC] PHP Stack trace:
+[11-Apr-2014 17:29:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:29:18 UTC] PHP Notice:  Undefined index: question3 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 9
+[11-Apr-2014 17:29:18 UTC] PHP Stack trace:
+[11-Apr-2014 17:29:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:29:18 UTC] PHP Notice:  Undefined index: question4 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 10
+[11-Apr-2014 17:29:18 UTC] PHP Stack trace:
+[11-Apr-2014 17:29:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:29:18 UTC] PHP Notice:  Undefined index: question5 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 11
+[11-Apr-2014 17:29:18 UTC] PHP Stack trace:
+[11-Apr-2014 17:29:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:29:18 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 27
+[11-Apr-2014 17:29:18 UTC] PHP Stack trace:
+[11-Apr-2014 17:29:18 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:29:18 UTC] PHP   2. mysqli_query() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:27
+[11-Apr-2014 17:29:37 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 27
+[11-Apr-2014 17:29:37 UTC] PHP Stack trace:
+[11-Apr-2014 17:29:37 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:29:37 UTC] PHP   2. mysqli_query() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:27
+[11-Apr-2014 17:32:46 UTC] PHP Notice:  Undefined index: name in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 4
+[11-Apr-2014 17:32:46 UTC] PHP Stack trace:
+[11-Apr-2014 17:32:46 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:32:46 UTC] PHP Notice:  Undefined index: survey_type in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 5
+[11-Apr-2014 17:32:46 UTC] PHP Stack trace:
+[11-Apr-2014 17:32:46 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:32:46 UTC] PHP Notice:  Undefined index: end_date in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 6
+[11-Apr-2014 17:32:46 UTC] PHP Stack trace:
+[11-Apr-2014 17:32:46 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:32:46 UTC] PHP Notice:  Undefined index: question1 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 7
+[11-Apr-2014 17:32:46 UTC] PHP Stack trace:
+[11-Apr-2014 17:32:46 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:32:46 UTC] PHP Notice:  Undefined index: question2 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 8
+[11-Apr-2014 17:32:46 UTC] PHP Stack trace:
+[11-Apr-2014 17:32:46 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:32:46 UTC] PHP Notice:  Undefined index: question3 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 9
+[11-Apr-2014 17:32:46 UTC] PHP Stack trace:
+[11-Apr-2014 17:32:46 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:32:46 UTC] PHP Notice:  Undefined index: question4 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 10
+[11-Apr-2014 17:32:46 UTC] PHP Stack trace:
+[11-Apr-2014 17:32:46 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:32:46 UTC] PHP Notice:  Undefined index: question5 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 11
+[11-Apr-2014 17:32:46 UTC] PHP Stack trace:
+[11-Apr-2014 17:32:46 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:32:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 28
+[11-Apr-2014 17:32:46 UTC] PHP Stack trace:
+[11-Apr-2014 17:32:46 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:32:46 UTC] PHP   2. mysqli_query() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:28
+[11-Apr-2014 17:32:46 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, resource given in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 34
+[11-Apr-2014 17:32:46 UTC] PHP Stack trace:
+[11-Apr-2014 17:32:46 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:32:46 UTC] PHP   2. mysqli_error() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:34
+[11-Apr-2014 17:32:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, resource given in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 28
+[11-Apr-2014 17:32:57 UTC] PHP Stack trace:
+[11-Apr-2014 17:32:57 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:32:57 UTC] PHP   2. mysqli_query() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:28
+[11-Apr-2014 17:32:57 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, resource given in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 34
+[11-Apr-2014 17:32:57 UTC] PHP Stack trace:
+[11-Apr-2014 17:32:57 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:32:57 UTC] PHP   2. mysqli_error() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:34
+[11-Apr-2014 17:33:33 UTC] PHP Notice:  Undefined index: name in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 4
+[11-Apr-2014 17:33:33 UTC] PHP Stack trace:
+[11-Apr-2014 17:33:33 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:33:33 UTC] PHP Notice:  Undefined index: survey_type in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 5
+[11-Apr-2014 17:33:33 UTC] PHP Stack trace:
+[11-Apr-2014 17:33:33 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:33:33 UTC] PHP Notice:  Undefined index: end_date in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 6
+[11-Apr-2014 17:33:33 UTC] PHP Stack trace:
+[11-Apr-2014 17:33:33 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:33:33 UTC] PHP Notice:  Undefined index: question1 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 7
+[11-Apr-2014 17:33:33 UTC] PHP Stack trace:
+[11-Apr-2014 17:33:33 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:33:33 UTC] PHP Notice:  Undefined index: question2 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 8
+[11-Apr-2014 17:33:33 UTC] PHP Stack trace:
+[11-Apr-2014 17:33:33 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:33:33 UTC] PHP Notice:  Undefined index: question3 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 9
+[11-Apr-2014 17:33:33 UTC] PHP Stack trace:
+[11-Apr-2014 17:33:33 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:33:33 UTC] PHP Notice:  Undefined index: question4 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 10
+[11-Apr-2014 17:33:33 UTC] PHP Stack trace:
+[11-Apr-2014 17:33:33 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:33:33 UTC] PHP Notice:  Undefined index: question5 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 11
+[11-Apr-2014 17:33:33 UTC] PHP Stack trace:
+[11-Apr-2014 17:33:33 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:33:33 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 28
+[11-Apr-2014 17:33:33 UTC] PHP Stack trace:
+[11-Apr-2014 17:33:33 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:33:33 UTC] PHP   2. mysqli_query() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:28
+[11-Apr-2014 17:33:33 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, resource given in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 34
+[11-Apr-2014 17:33:33 UTC] PHP Stack trace:
+[11-Apr-2014 17:33:33 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:33:33 UTC] PHP   2. mysqli_error() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:34
+[11-Apr-2014 17:33:39 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 28
+[11-Apr-2014 17:33:39 UTC] PHP Stack trace:
+[11-Apr-2014 17:33:39 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:33:39 UTC] PHP   2. mysqli_query() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:28
+[11-Apr-2014 17:33:39 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, resource given in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 34
+[11-Apr-2014 17:33:39 UTC] PHP Stack trace:
+[11-Apr-2014 17:33:39 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:33:39 UTC] PHP   2. mysqli_error() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:34
+[11-Apr-2014 17:36:09 UTC] PHP Notice:  Undefined index: name in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 4
+[11-Apr-2014 17:36:09 UTC] PHP Stack trace:
+[11-Apr-2014 17:36:09 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:36:09 UTC] PHP Notice:  Undefined index: survey_type in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 5
+[11-Apr-2014 17:36:09 UTC] PHP Stack trace:
+[11-Apr-2014 17:36:09 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:36:09 UTC] PHP Notice:  Undefined index: end_date in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 6
+[11-Apr-2014 17:36:09 UTC] PHP Stack trace:
+[11-Apr-2014 17:36:09 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:36:09 UTC] PHP Notice:  Undefined index: question1 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 7
+[11-Apr-2014 17:36:09 UTC] PHP Stack trace:
+[11-Apr-2014 17:36:09 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:36:09 UTC] PHP Notice:  Undefined index: question2 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 8
+[11-Apr-2014 17:36:09 UTC] PHP Stack trace:
+[11-Apr-2014 17:36:09 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:36:09 UTC] PHP Notice:  Undefined index: question3 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 9
+[11-Apr-2014 17:36:09 UTC] PHP Stack trace:
+[11-Apr-2014 17:36:09 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:36:09 UTC] PHP Notice:  Undefined index: question4 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 10
+[11-Apr-2014 17:36:09 UTC] PHP Stack trace:
+[11-Apr-2014 17:36:09 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:36:09 UTC] PHP Notice:  Undefined index: question5 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 11
+[11-Apr-2014 17:36:09 UTC] PHP Stack trace:
+[11-Apr-2014 17:36:09 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:37:35 UTC] PHP Notice:  Undefined index: name in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 4
+[11-Apr-2014 17:37:35 UTC] PHP Stack trace:
+[11-Apr-2014 17:37:35 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:37:35 UTC] PHP Notice:  Undefined index: survey_type in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 5
+[11-Apr-2014 17:37:35 UTC] PHP Stack trace:
+[11-Apr-2014 17:37:35 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:37:35 UTC] PHP Notice:  Undefined index: end_date in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 6
+[11-Apr-2014 17:37:35 UTC] PHP Stack trace:
+[11-Apr-2014 17:37:35 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:37:35 UTC] PHP Notice:  Undefined index: question1 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 7
+[11-Apr-2014 17:37:35 UTC] PHP Stack trace:
+[11-Apr-2014 17:37:35 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:37:35 UTC] PHP Notice:  Undefined index: question2 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 8
+[11-Apr-2014 17:37:35 UTC] PHP Stack trace:
+[11-Apr-2014 17:37:35 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:37:35 UTC] PHP Notice:  Undefined index: question3 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 9
+[11-Apr-2014 17:37:35 UTC] PHP Stack trace:
+[11-Apr-2014 17:37:35 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:37:35 UTC] PHP Notice:  Undefined index: question4 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 10
+[11-Apr-2014 17:37:35 UTC] PHP Stack trace:
+[11-Apr-2014 17:37:35 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:37:35 UTC] PHP Notice:  Undefined index: question5 in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 11
+[11-Apr-2014 17:37:35 UTC] PHP Stack trace:
+[11-Apr-2014 17:37:35 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:37:53 UTC] PHP Notice:  Undefined index: survey_type in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 5
+[11-Apr-2014 17:37:53 UTC] PHP Stack trace:
+[11-Apr-2014 17:37:53 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[11-Apr-2014 17:55:46 UTC] PHP Notice:  Undefined index: survey_type in C:\wamp\www\Sandbox\Final Project\create_survey_table.php on line 11
+[11-Apr-2014 17:55:46 UTC] PHP Stack trace:
+[11-Apr-2014 17:55:46 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey_table.php:0
+[12-Apr-2014 01:35:14 UTC] PHP Notice:  Undefined variable: home in C:\wamp\www\Sandbox\Final Project\includes\nav.php on line 17
+[12-Apr-2014 01:35:14 UTC] PHP Stack trace:
+[12-Apr-2014 01:35:14 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey.php:0
+[12-Apr-2014 01:35:14 UTC] PHP   2. include() C:\wamp\www\Sandbox\Final Project\create_survey.php:11
+[12-Apr-2014 01:35:14 UTC] PHP   3. include() C:\wamp\www\Sandbox\Final Project\includes\header.php:30
+[12-Apr-2014 01:35:14 UTC] PHP Notice:  Undefined variable: login in C:\wamp\www\Sandbox\Final Project\includes\nav.php on line 23
+[12-Apr-2014 01:35:14 UTC] PHP Stack trace:
+[12-Apr-2014 01:35:14 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\create_survey.php:0
+[12-Apr-2014 01:35:14 UTC] PHP   2. include() C:\wamp\www\Sandbox\Final Project\create_survey.php:11
+[12-Apr-2014 01:35:14 UTC] PHP   3. include() C:\wamp\www\Sandbox\Final Project\includes\header.php:30
+[12-Apr-2014 01:39:26 UTC] PHP Notice:  Undefined variable: home in C:\wamp\www\Sandbox\Final Project\includes\nav.php on line 17
+[12-Apr-2014 01:39:26 UTC] PHP Stack trace:
+[12-Apr-2014 01:39:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:39:26 UTC] PHP   2. include() C:\wamp\www\Sandbox\Final Project\home.php:12
+[12-Apr-2014 01:39:26 UTC] PHP   3. include() C:\wamp\www\Sandbox\Final Project\includes\header.php:30
+[12-Apr-2014 01:39:26 UTC] PHP Notice:  Undefined variable: login in C:\wamp\www\Sandbox\Final Project\includes\nav.php on line 23
+[12-Apr-2014 01:39:26 UTC] PHP Stack trace:
+[12-Apr-2014 01:39:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:39:26 UTC] PHP   2. include() C:\wamp\www\Sandbox\Final Project\home.php:12
+[12-Apr-2014 01:39:26 UTC] PHP   3. include() C:\wamp\www\Sandbox\Final Project\includes\header.php:30
+[12-Apr-2014 01:39:26 UTC] PHP Notice:  Undefined variable: create_survey in C:\wamp\www\Sandbox\Final Project\includes\nav.php on line 24
+[12-Apr-2014 01:39:26 UTC] PHP Stack trace:
+[12-Apr-2014 01:39:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:39:26 UTC] PHP   2. include() C:\wamp\www\Sandbox\Final Project\home.php:12
+[12-Apr-2014 01:39:26 UTC] PHP   3. include() C:\wamp\www\Sandbox\Final Project\includes\header.php:30
+[12-Apr-2014 01:39:26 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in C:\wamp\www\Sandbox\Final Project\includes\db_connect.php on line 12
+[12-Apr-2014 01:39:26 UTC] PHP Stack trace:
+[12-Apr-2014 01:39:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:39:26 UTC] PHP   2. include() C:\wamp\www\Sandbox\Final Project\home.php:38
+[12-Apr-2014 01:39:26 UTC] PHP   3. mysqli_select_db() C:\wamp\www\Sandbox\Final Project\includes\db_connect.php:12
+[12-Apr-2014 01:39:26 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in C:\wamp\www\Sandbox\Final Project\home.php on line 40
+[12-Apr-2014 01:39:26 UTC] PHP Stack trace:
+[12-Apr-2014 01:39:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:39:26 UTC] PHP   2. mysql_query() C:\wamp\www\Sandbox\Final Project\home.php:40
+[12-Apr-2014 01:39:26 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in C:\wamp\www\Sandbox\Final Project\home.php on line 40
+[12-Apr-2014 01:39:26 UTC] PHP Stack trace:
+[12-Apr-2014 01:39:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:39:26 UTC] PHP   2. mysql_query() C:\wamp\www\Sandbox\Final Project\home.php:40
+[12-Apr-2014 01:39:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Sandbox\Final Project\home.php on line 41
+[12-Apr-2014 01:39:26 UTC] PHP Stack trace:
+[12-Apr-2014 01:39:26 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:39:26 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\Sandbox\Final Project\home.php:41
+[12-Apr-2014 01:40:46 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in C:\wamp\www\Sandbox\Final Project\includes\db_connect.php on line 12
+[12-Apr-2014 01:40:46 UTC] PHP Stack trace:
+[12-Apr-2014 01:40:46 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:40:46 UTC] PHP   2. include() C:\wamp\www\Sandbox\Final Project\home.php:41
+[12-Apr-2014 01:40:46 UTC] PHP   3. mysqli_select_db() C:\wamp\www\Sandbox\Final Project\includes\db_connect.php:12
+[12-Apr-2014 01:40:46 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in C:\wamp\www\Sandbox\Final Project\home.php on line 43
+[12-Apr-2014 01:40:46 UTC] PHP Stack trace:
+[12-Apr-2014 01:40:46 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:40:46 UTC] PHP   2. mysql_query() C:\wamp\www\Sandbox\Final Project\home.php:43
+[12-Apr-2014 01:40:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in C:\wamp\www\Sandbox\Final Project\home.php on line 43
+[12-Apr-2014 01:40:46 UTC] PHP Stack trace:
+[12-Apr-2014 01:40:46 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:40:46 UTC] PHP   2. mysql_query() C:\wamp\www\Sandbox\Final Project\home.php:43
+[12-Apr-2014 01:40:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in C:\wamp\www\Sandbox\Final Project\home.php on line 44
+[12-Apr-2014 01:40:46 UTC] PHP Stack trace:
+[12-Apr-2014 01:40:46 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:40:46 UTC] PHP   2. mysql_fetch_array() C:\wamp\www\Sandbox\Final Project\home.php:44
+[12-Apr-2014 01:41:30 UTC] PHP Warning:  mysqli_select_db() expects exactly 2 parameters, 1 given in C:\wamp\www\Sandbox\Final Project\includes\db_connect.php on line 12
+[12-Apr-2014 01:41:30 UTC] PHP Stack trace:
+[12-Apr-2014 01:41:30 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:41:30 UTC] PHP   2. include() C:\wamp\www\Sandbox\Final Project\home.php:41
+[12-Apr-2014 01:41:30 UTC] PHP   3. mysqli_select_db() C:\wamp\www\Sandbox\Final Project\includes\db_connect.php:12
+[12-Apr-2014 01:41:30 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in C:\wamp\www\Sandbox\Final Project\home.php on line 43
+[12-Apr-2014 01:41:30 UTC] PHP Stack trace:
+[12-Apr-2014 01:41:30 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:41:30 UTC] PHP   2. mysqli_query() C:\wamp\www\Sandbox\Final Project\home.php:43
+[12-Apr-2014 01:41:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\wamp\www\Sandbox\Final Project\home.php on line 44
+[12-Apr-2014 01:41:30 UTC] PHP Stack trace:
+[12-Apr-2014 01:41:30 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:41:30 UTC] PHP   2. mysqli_fetch_array() C:\wamp\www\Sandbox\Final Project\home.php:44
+[12-Apr-2014 01:42:38 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in C:\wamp\www\Sandbox\Final Project\home.php on line 43
+[12-Apr-2014 01:42:39 UTC] PHP Stack trace:
+[12-Apr-2014 01:42:39 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:42:39 UTC] PHP   2. mysqli_query() C:\wamp\www\Sandbox\Final Project\home.php:43
+[12-Apr-2014 01:42:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\wamp\www\Sandbox\Final Project\home.php on line 44
+[12-Apr-2014 01:42:39 UTC] PHP Stack trace:
+[12-Apr-2014 01:42:39 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:42:39 UTC] PHP   2. mysqli_fetch_array() C:\wamp\www\Sandbox\Final Project\home.php:44
+[12-Apr-2014 01:43:14 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in C:\wamp\www\Sandbox\Final Project\home.php on line 43
+[12-Apr-2014 01:43:14 UTC] PHP Stack trace:
+[12-Apr-2014 01:43:14 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:43:14 UTC] PHP   2. mysqli_query() C:\wamp\www\Sandbox\Final Project\home.php:43
+[12-Apr-2014 01:43:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in C:\wamp\www\Sandbox\Final Project\home.php on line 44
+[12-Apr-2014 01:43:14 UTC] PHP Stack trace:
+[12-Apr-2014 01:43:14 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\home.php:0
+[12-Apr-2014 01:43:14 UTC] PHP   2. mysqli_fetch_array() C:\wamp\www\Sandbox\Final Project\home.php:44
