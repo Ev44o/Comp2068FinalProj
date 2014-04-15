@@ -12,6 +12,8 @@ session_start();
 //destroy the session
 session_destroy();
 //redirect
-header("location:index.html");
+echo "You are now logged out. <br>
+You will be redirected to the home page momentarily.";
+header('Refresh: 5; url=home.php');
 exit();
 ?>

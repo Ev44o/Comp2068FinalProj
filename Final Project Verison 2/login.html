@@ -1,0 +1,25 @@
+<!doctype html>
+<!--
+File Name: login.html
+Author Names: Jordan Cooper, Evan Pugh
+Website Name: Survey Site
+Description: This page is the login page. A registered user can use it to 
+start a session so they can access restricted pages.
+-->
+<html>
+	<head>
+		<title>Survey Site - Login</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="css/styles.css" /> <!-- custom stylesheet -->
+	</head>
+	<body> <!-- navigation links --> 
+		<a href="login.html">Login</a> / <a href="logout.php">Logout</a> / <a href="register.html">Register</a>
+		<!-- login form -->
+		<form id="login" name="login" method="post" action="login.php">
+			Login:<br>
+			<input type="text" name="loginUsername" id="loginUsername" placeholder="Username" /><br>
+			<input type="password" name="loginPassword" id="loginPassword" placeholder="Password" /><br>
+			<input type="submit" name="loginButton" id="loginButton" value="Login" /><br>
+		</form>
+	</body>
+</html>

@@ -3,34 +3,19 @@
 File Name: register.html
 Author Names: Jordan Cooper, Evan Pugh
 Website Name: Survey Site
-Description: -->
+Description: Here the user can create their own account by entering a username
+email address and password
+-->
 <html>
 	<head>
+		<title>Survey Site - Register</title>
 		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>Survey Site - Login</title>
-		<link rel="stylesheet" href="css/foundation.css" />
-		<link rel="stylesheet" href="css/styles.css" />
-		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Della+Respira">
-		<style>body{font-family: 'Della Respira', serif;}</style>
-		<script src="js/modernizr.js"></script>
-
+		<link rel="stylesheet" href="css/styles.css" /> <!-- custom stylesheet -->
 	</head>
-	<body>
-		<div class="row">
-			<nav class="top-bar" data-topbar>
-				<section class="top-bar-section">
-					<ul class="left">
-						<li>
-							<a href="login.html">Login</a>
-						</li>
-						<li>
-							<a href="register.html" id="current-page">Register</a>
-						</li>
-					</ul>
-				</section>
-			</nav>
-		</div>
+	<body> <!-- navigation links --> 
+		<a href="login.html">Login</a> / <a href="logout.php">Logout</a> / <a href="register.html">Register</a>
+		
+		<!-- the form for entering a username, email and password -->
 		<form id="login" name="login" method="post" action="register.php">
 			Registration Form:<br>
 			<input type="text" name="registerUsername" id="registerUsername" placeholder="Username" /><br>
