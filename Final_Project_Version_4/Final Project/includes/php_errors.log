@@ -1,0 +1,9 @@
+[17-Apr-2014 19:51:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+ in C:\wamp\www\Sandbox\Final Project\includes\db_connect.php on line 8
+[17-Apr-2014 19:51:56 UTC] PHP Stack trace:
+[17-Apr-2014 19:51:56 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\includes\db_connect.php:0
+[17-Apr-2014 19:51:56 UTC] PHP   2. mysqli_connect() C:\wamp\www\Sandbox\Final Project\includes\db_connect.php:8
+[17-Apr-2014 19:51:56 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in C:\wamp\www\Sandbox\Final Project\includes\db_connect.php on line 10
+[17-Apr-2014 19:51:56 UTC] PHP Stack trace:
+[17-Apr-2014 19:51:56 UTC] PHP   1. {main}() C:\wamp\www\Sandbox\Final Project\includes\db_connect.php:0
+[17-Apr-2014 19:51:56 UTC] PHP   2. mysqli_error() C:\wamp\www\Sandbox\Final Project\includes\db_connect.php:10

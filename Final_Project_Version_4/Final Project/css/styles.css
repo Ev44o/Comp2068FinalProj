@@ -1,0 +1,95 @@
+/*
+File Name: styles.css
+Author: Jordan Cooper
+Web	Site: styles.css
+Description: This is the css I used while working on the project. as foundation
+provided a large amount of css styling and the page itself is primarily text
+there was not a lof of additional style required. Not this CSS overrides 
+foundation.css
+*/
+
+
+
+@charset "utf-8";
+/* CSS Document */
+
+/* Change the body color to a nice grey*/
+body
+{
+background-color:#E3E3E3;
+}	
+
+/* change the current page to a grey box behind text*/
+#current-page
+{
+	background-color:#606060;
+}
+
+/* Text styles, center , left and right*/
+.center-title
+{
+text-align:center;
+}
+
+.left-title
+{
+text-align:left;
+}
+
+.right-title
+{
+text-align:right;
+}
+
+/* format the footer, align the the text in the center, grey color, change the font family*/
+.footer
+{
+	text-align:center;
+	color:#8E8E8E;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+#logout
+{
+	text-align:right;
+}
+#logoutBtn
+{
+	display: inline-block;
+    padding: 10px;
+}
+
+.loginCred
+{
+	margin-left:15%;
+	margin-right:15%;
+}
+
+.btn {
+  background: #abacad;
+  background-image: -webkit-linear-gradient(top, #abacad, #75787a);
+  background-image: -moz-linear-gradient(top, #abacad, #75787a);
+  background-image: -ms-linear-gradient(top, #abacad, #75787a);
+  background-image: -o-linear-gradient(top, #abacad, #75787a);
+  background-image: linear-gradient(to bottom, #abacad, #75787a);
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+  font-family: Arial;
+  color: #030303;
+  font-size: 13px;
+  padding: 10px 20px 10px 20px;
+  border: solid #000000 1px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #b5b5b5;
+  background-image: -webkit-linear-gradient(top, #b5b5b5, #737373);
+  background-image: -moz-linear-gradient(top, #b5b5b5, #737373);
+  background-image: -ms-linear-gradient(top, #b5b5b5, #737373);
+  background-image: -o-linear-gradient(top, #b5b5b5, #737373);
+  background-image: linear-gradient(to bottom, #b5b5b5, #737373);
+  text-decoration: none;
+}
+
