@@ -1,4 +1,3 @@
-<!doctype html>
 <!--
 File Name: login1.php
 Author Names: Jordan Cooper, Evan Pugh

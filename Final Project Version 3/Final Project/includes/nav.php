@@ -21,8 +21,11 @@ Description: This is an included asset, this will house the navigation bar for o
 				<section class="top-bar-section">
 					<ul class="left">
 					    <li><a id="<?php echo $login; ?>" href="login1.php">Log In</a></li>
-						<li><a id="<?php echo $create_survey; ?>"href="create_survey.php">Create a Survey</a></li>
 						<li><a id="<?php echo $create_user; ?>"href="register1.php">Join Survey Savy</a></li>
+						<li><a id="<?php echo $create_survey; ?>"href="create_survey.php">Create a Survey</a></li>
+						<li><a id="<?php echo $edit_user; ?>"href="edit_user.php">Edit Account</a></li>
+						<li><a id="<?php echo $statistics; ?>"href="statistics.php">Survey Statistics</a></li>
+						<li><a id="<?php echo $logout; ?>"href="logout.php">Logout</a></li>
 					</ul>
 				</section>
 			</nav>

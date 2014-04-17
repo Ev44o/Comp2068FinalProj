@@ -5,13 +5,21 @@ Author Names: Jordan Cooper, Evan Pugh
 Website Name: Survey Site
 Description: This code runs when the user clicks submit
 it searches the database for a perfect match
-if a match is returned, allow the user to access the site
-else return them to the homepage.
+if a match is returned, the user is allowed to access the site
+else it informs them of an incorrect username or password.
 -->
 <html>
 	<head>
 		<meta charset="utf-8">
 		<title>Login</title>
+		<?php
+		 $title = "Login";
+		 $home ="";
+		 $login ="current-page";
+		 $create_survey ="";
+		 $create_user ="";
+		 include 'includes/header.php'; 
+		?>
 	</head>
 	<body>
 		<?php
@@ -30,9 +38,9 @@ else return them to the homepage.
 		// hash the password to see if it is the correct one
 		$hashpassword = sha1($password);
 		
-		$sql = "SELECT username, password FROM users WHERE username='$username' AND password='$hashpassword'";
+		$sql = "SELECT id, username, password FROM users WHERE username='$username' AND password='$hashpassword'";
 		
-		$result = mysqli_query($conn, $sql) or die('Error querying database.');;
+		$result = mysqli_query($conn, $sql) or die('Error querying database.');
 		
 		// Mysql_num_row is counting table row, there should only be 1 because it is an exact match.
 		$count = mysqli_num_rows($result);
@@ -40,18 +48,34 @@ else return them to the homepage.
 		// If result matched $username and $password, table row must be 1 row
 		if ($count == 1)
 		{
-			session_start();
-			$_SESSION['session_user'] = $username;
+			// get the user id for use later
+			$row = mysqli_fetch_array($result);
+			$id = $row['id'];
+			
+			session_start();// start session then store the id in it
+			$_SESSION['session_id'] = $id;
 			//header("location:create_survey.php");
-			echo "it works";
+			//redirect
+			echo'
+			<div class="row">
+				<div class="large 12-columns center-title">
+					Login successful. <br>
+					You will be redirected to the home page momentarily.
+				</div>
+			</div>';
+			header('Refresh: 5; url=home.php');
 		}
 		else
 		{
 			$message = "ERROR! incorrect username or password.";
 			echo "<script type='text/javascript'>window.alert('$message');
-				window.location.href='login1.php'</script>";
+				window.location.href='login.html'</script>";
 		}
 		mysqli_close($conn);
 		?>
 	</body>
+	<!-- Footer -->
+	<?php
+		include 'includes/footer.php'; 
+	?>
 </html>

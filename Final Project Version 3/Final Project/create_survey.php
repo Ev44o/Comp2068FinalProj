@@ -5,8 +5,9 @@ Web	Site: create_survey.php
 Description: in this section the user is prompted to input their survey data
 			 once that data is filled in a table will be created for them
 			 in the database, and their information will be stored --> 
+<!-- Header + nav information -->			 
 <?php
-		 $title = "Welcome";
+		 $title = "Create a Survey!";
 		 $home ="";
 		 $login ="";
 		 $create_survey ="current-page";
@@ -18,7 +19,7 @@ Description: in this section the user is prompted to input their survey data
 		<h1> Create Your Own Survey!</h1>
 	</div>
 </div>
-
+<!-- create a form, get information from the user about their survey -->
 <div class="row">
 	<div id="table" class="large-12 columns center-title">
 		<form id="create_survey" name="create_survey" method="post" action="create_survey_table.php">
