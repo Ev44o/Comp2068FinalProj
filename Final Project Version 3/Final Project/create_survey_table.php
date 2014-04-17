@@ -1,6 +1,6 @@
 <!--
 File Name: create_survey_table.php
-Author: Jordan Cooper
+Author: Jordan Cooper, Evan Pugh
 Web	Site: create_survey_table.php
 Description: this takes the user's data and creates the table
 			 and inputs the values given into the appropreate tables. --> 
@@ -28,6 +28,11 @@ Description: this takes the user's data and creates the table
 	include 'includes/db_connect.php';
 	
 	$table_name = mysqli_real_escape_string($connect,$name);
+	$question1  = mysqli_real_escape_string($connect,$question1);
+	$question2  = mysqli_real_escape_string($connect,$question2);
+	$question3  = mysqli_real_escape_string($connect,$question3);
+	$question4  = mysqli_real_escape_string($connect,$question4);
+	$question5  = mysqli_real_escape_string($connect,$question5);
   
 	$sql_table="CREATE TABLE $table_name (
 	  `survey_id` int(4) NOT NULL AUTO_INCREMENT,

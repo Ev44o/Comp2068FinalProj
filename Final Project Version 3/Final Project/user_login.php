@@ -1,3 +1,4 @@
+<!doctype html>
 <!--
 File Name: login1.php
 Author Names: Jordan Cooper, Evan Pugh
@@ -5,8 +6,9 @@ Website Name: Survey Site
 Description: This page is run when the user tries to log in to the contact page.
 if the user's data is correct he will be redriected to the appropreate page
 -->
+<!-- Header + required info for nav -->
 <?php
-		 $title = "Welcome";
+		 $title = "Log in";
 		 $home ="";
 		 $login ="current-page";
 		 $create_survey ="";

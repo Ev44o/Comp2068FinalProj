@@ -24,6 +24,8 @@ Description: This is an included asset, this will house the navigation bar for o
       }
     </style>
 <script src="js/modernizr.js"></script>
+<!-- add print script -->
+<script src="js/printStats.js"></script>
 </head>
 	<body>
 	

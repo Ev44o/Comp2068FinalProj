@@ -5,6 +5,7 @@ Web	Site: survey site
 Description: The user is redirected to this page when they have chosen a survey from the home page table
 			 the survey type and name are taken from the URL and the rest is populated from the survey table
  -->
+<!-- Header + required info for nav -->
 <?php
 		 $title = "Taking a Survey";
 		 $home ="";
@@ -15,7 +16,7 @@ Description: The user is redirected to this page when they have chosen a survey 
 		 $survey_type= $_GET['type'];
 		 include 'includes/header.php'; 
 		?>
-
+<!-- create a form, fill that form with a table, populate the table information with questions from the survey -->
 <div class="row">
 	<div id="table" class="large-12 columns" align="center">
 		<form id="take_survey" name="take_survey" method="post" action="take_survey_table.php?id=<?php echo $survey;?>_results">
@@ -38,13 +39,13 @@ Description: The user is redirected to this page when they have chosen a survey 
 					</tr>
 					<tr>
 						<?php 
-						if($survey_type=='short_answer')
+						if($survey_type=='short_answer') // if the survey type is short answer then output a text feild.
 						{
 						?>
 							<td><input type="text" name="answer<?php echo $row['survey_id'];?>" id="answer<?php echo $row['survey_id'];?>"></td>;
 						<?php
 						}
-						else
+						else // Else refers to the radio button options from the agree/disagree survey type
 						{
 						?>
 							<td>

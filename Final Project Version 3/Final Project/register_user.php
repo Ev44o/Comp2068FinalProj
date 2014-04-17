@@ -1,12 +1,13 @@
 <!doctype html>
 <!--
-File Name: register1.php
+File Name: register_user.php
 Author Names: Jordan Cooper, Evan Pugh
 Website Name: Survey Site
 Description: -->
 
+<!-- Header + required info for nav -->
 <?php
-		 $title = "Welcome";
+		 $title = "Register a User";
 		 $home ="";
 		 $login ="";
 		 $create_survey ="";
